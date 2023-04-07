@@ -7,7 +7,7 @@
   </a>
 </div>
 
-### Web and Machine Learning Engineer
+## Web and Machine Learning Engineer
 
 I'm a **web developer** who's a big fan of using React and Typescript to build full-stack typesafe applications. When I'm not busy building web apps, I'm probably doing **machine learning**. I specialize in Information Retrieval and Natural Language Processing.
 
